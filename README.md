@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm MD Arifuzzaman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p align="center">
+ 
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Hi+I'm+MD+Arifuzzaman;Frontend+Developer;React+Learner;Love+Coding+🚀" />
+   <img src="https://avatars.githubusercontent.com/u/246420468?v=4&size=64"
 </p>
 
 - 📫 How to reach me **mdarifuzzaman0916@gmail.com**
